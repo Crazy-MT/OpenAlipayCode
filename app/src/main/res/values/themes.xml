@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.OpenAlipayCode" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.OpenAlipayCode.Code" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_code</item>
+    </style>
+
+    <style name="Theme.OpenAlipayCode.Scan" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_scan</item>
+    </style>
+
+</resources>

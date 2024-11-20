@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">支付宝付款码</string>
+    <string name="code_name">支付宝付款码</string>
+    <string name="scan_name">支付宝扫一扫</string>
+</resources>
